@@ -2,6 +2,6 @@
 
 ## 二级标题
 
-![皮卡丘](E:\朗科\6、Git和GitHub\git和github\第3次课\tk.jpg)
+![皮卡丘](https://th.bing.com/th/id/OIP.MyVb2U2ZgoDl6gXE8rgAPQHaJQ?pid=ImgDet&rs=1)
 
 [百度](http://www.baidu.com)
